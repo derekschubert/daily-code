@@ -6,6 +6,6 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 
 - Day 1: Find all different rectangles in a 2d grid, including diagonals. Some points may be missing.
   - source: [Clément Mihailescu on YouTube](https://www.youtube.com/watch?v=EuPSibuIKIg)
-  - [day-1-rectanglesInGrid.js](day-1-rectanglesInGrid.js)
+  - solution: [day-1-rectanglesInGrid.js](day-1-rectanglesInGrid.js)
 
 - Day 2: --
