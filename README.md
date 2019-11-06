@@ -9,4 +9,6 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
   - source: [Clément Mihailescu on YouTube](https://www.youtube.com/watch?v=EuPSibuIKIg)
   - solution: [day-1-rectanglesInGrid.js](day-1-rectanglesInGrid.js)
 
-- Day 2: --
+- Day 2: Add two numbers (each represented in a reverse-order linked list) and return it as a linked list.
+  - source: [LeetCode](https://leetcode.com/problems/add-two-numbers/)
+  - solution: [day-2-addTwoNumbersInLinkedList.go](day-2-addTwoNumbersInLinkedList.go)
