@@ -14,5 +14,9 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
   - solution: [day-2-addTwoNumbersInLinkedList.go](day-2-addTwoNumbersInLinkedList.go)
 
 - Day 3: Do any two numbers in a given list add up to equal value k? (determined in O(n) time)
-  - source: [Daily Coding Problem](https://www.dailycodingproblem.com/)
+  - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Google)
   - solution: [day-3-doTwoNumbersAddUpToK](day-3-doTwoNumbersAddUpToK.go) (two solutions based on an input of either a sorted or unsorted list)
+
+- Day 4: Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i
+  - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Uber)
+  - solution: [day-4-productOfAllButSelf](day-4-productOfAllButSelf.go) (3 solutions: with division & w/o division)
