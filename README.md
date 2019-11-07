@@ -12,3 +12,7 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 2: Add two numbers (each represented in a reverse-order linked list) and return it as a linked list.
   - source: [LeetCode](https://leetcode.com/problems/add-two-numbers/)
   - solution: [day-2-addTwoNumbersInLinkedList.go](day-2-addTwoNumbersInLinkedList.go)
+
+- Day 3: Do any two numbers in a given list add up to equal value k? (determined in O(n) time)
+  - source: [Daily Coding Problem](https://www.dailycodingproblem.com/)
+  - solution: [day-3-doTwoNumbersAddUpToK](day-3-doTwoNumbersAddUpToK.go) (two solutions based on an input of either a sorted or unsorted list)
