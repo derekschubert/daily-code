@@ -20,3 +20,7 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 4: Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i
   - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Uber)
   - solution: [day-4-productOfAllButSelf](day-4-productOfAllButSelf.go) (3 solutions: with division & w/o division)
+
+- Day 5: Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree.
+  - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Google)
+  - solution: [day-5-serializeBinarySearchTree](day-5-serializeBinarySearchTree.js)
