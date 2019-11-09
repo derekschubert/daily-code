@@ -24,3 +24,8 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 5: Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree.
   - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Google)
   - solution: [day-5-serializeBinarySearchTree](day-5-serializeBinarySearchTree.js)
+
+- Day 6: 	Given an array of integers, find the first missing positive integer.
+  - source: [Daily Coding Problem (starting to see a trend here...)](https://www.dailycodingproblem.com/) (problem by Stripe)
+  - solution: [day-6-findLowestMissingPositiveInteger](day-6-findLowestMissingPositiveInteger.go)
+  
