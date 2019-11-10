@@ -25,7 +25,10 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
   - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Google)
   - solution: [day-5-serializeBinarySearchTree](day-5-serializeBinarySearchTree.js)
 
-- Day 6: 	Given an array of integers, find the first missing positive integer.
+- Day 6: Given an array of integers, find the first missing positive integer.
   - source: [Daily Coding Problem (starting to see a trend here...)](https://www.dailycodingproblem.com/) (problem by Stripe)
   - solution: [day-6-findLowestMissingPositiveInteger](day-6-findLowestMissingPositiveInteger.go)
   
+- Day 7: Merge k sorted linked lists and return it as one sorted list.
+  - source: [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)
+  - solution: [day-7-mergeKLinkedLists](day-7-mergeKLinkedLists.go)
