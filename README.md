@@ -32,3 +32,11 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 7: Merge k sorted linked lists and return it as one sorted list.
   - source: [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)
   - solution: [day-7-mergeKLinkedLists](day-7-mergeKLinkedLists.go)
+
+- Day 8: Find how much water would be trapped given an array of heights (each index representing an equal width)
+  - source: [LeetCode](https://leetcode.com/problems/trapping-rain-water/)
+  - solution: [day-8-trappedWater](day-8-trappedWater.go)
+
+- Day 9: Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded - assuming all messages are decodable (ie: 001 not allowed)
+  - source: [Daily Coding Problem (starting to see a trend here...)](https://www.dailycodingproblem.com/) (problem by Facebook)
+  - solution: [day-9-decodeNumbers](day-9-decodeNumbers.go)
