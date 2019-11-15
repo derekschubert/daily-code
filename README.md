@@ -38,5 +38,13 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
   - solution: [day-8-trappedWater](day-8-trappedWater.go)
 
 - Day 9: Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded - assuming all messages are decodable (ie: 001 not allowed)
-  - source: [Daily Coding Problem (starting to see a trend here...)](https://www.dailycodingproblem.com/) (problem by Facebook)
+  - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Facebook)
   - solution: [day-9-decodeNumbers](day-9-decodeNumbers.go)
+
+- Day 10: Given n non-negative integers where each integer represents a point at coordinate (index, int), n vertical lines are drawn such that the two endpoints of line i is at (i, ai) and (i, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water.
+  - source: [LeetCode](https://leetcode.com/problems/container-with-most-water/)
+  - solution: [day-10-maxWater](day-10-maxWater.go)
+
+- Day 11: Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.
+  - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Airbnb)
+  - solution: [day-11-largestSumOfNonAdjacentNumbers](day-11-largestSumOfNonAdjacentNumbers.go) (2 solutions - dynamic (very fast) & recursive)
