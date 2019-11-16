@@ -52,3 +52,7 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 12: Doubled up today! 1 - Given a string, find the length of the longest substring without repeating characters. 2 - Given a string, find the length of the longest substring without repeating/mirrored substrings. (see solution file for examples)
   - source: [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - solution: [day-12](day-12/longestSubstringWithoutRepeating.go)
+
+- Day 13: Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
+  - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Apple)
+  - solution: [day-13](day-13/jobScheduler.go)
