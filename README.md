@@ -56,3 +56,7 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 13: Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
   - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Apple)
   - solution: [day 13](day-013/jobScheduler.go)
+
+- Day 14: There exists a staircase with N steps, and you can climb up any number of steps from a set of positive integers X. Given N and X, write a function that returns the number of unique ways you can climb the staircase.
+  - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Amazon)
+  - solution: [day 14](day-014/waysUpStaircase.go)
