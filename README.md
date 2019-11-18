@@ -60,3 +60,7 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 14: There exists a staircase with N steps, and you can climb up any number of steps from a set of positive integers X. Given N and X, write a function that returns the number of unique ways you can climb the staircase.
   - source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Amazon)
   - solution: [day 14](day-014/waysUpStaircase.go)
+
+- Day 15:	Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters. (similar but different enough to Day 12 problems)
+	- source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Amazon)
+  - solution: [day 15](day-015/longestSubstringOfKChars.js) (2 solutions: sliding window/pointers & brute force)
