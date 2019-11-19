@@ -64,3 +64,7 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 15:	Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters. (similar but different enough to Day 12 problems)
 	- source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Amazon)
   - solution: [day 15](day-015/longestSubstringOfKChars.js) (2 solutions: sliding window/pointers & brute force)
+
+- Day 16: Cheat day! No specific challenge, but did a full implementation of a Binary Search Tree.
+  - source: [me :)](https://github.com/derekschubert)
+  - solution: [day 16](day-016/bst.js)
