@@ -68,3 +68,7 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 16: Cheat day! No specific challenge, but did a full implementation of a Binary Search Tree.
   - source: [me :)](https://github.com/derekschubert)
   - solution: [day 16](day-016/bst.js)
+
+- Day 17: Estimate π to 3 decimal places using a Monte Carlo method.  
+	- source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Google)
+  - solution: [day 17](day-017/monteCarloFindPi.go)
