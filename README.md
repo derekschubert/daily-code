@@ -72,3 +72,7 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 17: Estimate π to 3 decimal places using a Monte Carlo method.  
 	- source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Google)
   - solution: [day 17](day-017/monteCarloFindPi.go)
+
+- Day 18: Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
+	- source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Facebook)
+  - solution: [day 18](day-018/uniformProbability.go)
