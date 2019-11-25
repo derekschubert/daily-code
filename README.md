@@ -76,3 +76,13 @@ Officially started on Nov 4, 2019 (daily habit made public as a way to push some
 - Day 18: Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
 	- source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Facebook)
   - solution: [day 18](day-018/uniformProbability.go)
+
+- Day 19: Given an array of integers and a number k, where 1 <= k <= length of the array,	compute the sum of each subarray of length k.
+	- source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Google)
+  - solution: [day 19](day-019/totalOfSubarrays.go)
+
+[insert weekend algorithm break here! :D]
+
+- Day 20: Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical. 
+	- source: [Daily Coding Problem](https://www.dailycodingproblem.com/) (problem by Google)
+  - solution: [day 20](day-020/linkedListIntersection.go)
